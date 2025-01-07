@@ -1,15 +1,15 @@
-const logotext = "JOHN";
+const logotext = "OM";
 const meta = {
-    title: "John Doe",
-    description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+    title: "Om Prakash Yadav",
+    description: "I’m Om Prakash Yadav a Pimp",
 };
 
 const introdata = {
-    title: "I’m John Doe",
+    title: "I’m Om Prakash Yadav",
     animated: {
-        first: "I love coding",
-        second: "I code cool websites",
-        third: "I develop mobile apps",
+        first: "I love pimping",
+        second: "I get women for you",
+        third: "I am bisexual",
     },
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
     your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
@@ -73,9 +73,9 @@ const services = [{
 ];
 
 const dataportfolio = [{
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "1.jpg",
+        description: "The wisdom of being horny consists in the elimination of morals.",
+        link: "Gate Payment receipt.pdf",
     },
     {
         img: "https://picsum.photos/400/800/?grayscale",
