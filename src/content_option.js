@@ -1,15 +1,15 @@
 const logotext = "OM";
 const meta = {
     title: "Om Prakash Yadav",
-    description: "I’m Om Prakash Yadav a Pimp",
+    description: "I’m Om Prakash Yadav",
 };
 
 const introdata = {
     title: "I’m Om Prakash Yadav",
     animated: {
-        first: "I love pimping",
-        second: "I get women for you",
-        third: "I am bisexual",
+        first: "I love Arduino",
+        second: "I make Robots for you",
+        third: "I am a Student",
     },
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
     your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
@@ -74,7 +74,7 @@ const services = [{
 
 const dataportfolio = [{
         img: "1.jpg",
-        description: "The wisdom of being horny consists in the elimination of morals.",
+        description: "The wisdom of life consists in the elimination of non-essentials.",
         link: "Gate Payment receipt.pdf",
     },
     {
