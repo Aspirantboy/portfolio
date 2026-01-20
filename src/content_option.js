@@ -12,7 +12,7 @@ const introdata = {
         third: "I am a Student",
     },
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
-    your_img_url: "https://res.cloudinary.com/dwqusdhzz/image/upload/v1768718193/IMG-20241228-WA0038_fipdzn.jpg",
+    your_img_url: "https://media.licdn.com/media/AAYQAQSOAAgAAQAAAAAAAB-zrMZEDXI2T62PSuT6kpB6qg.png",
 };
 
 const dataabout = {
