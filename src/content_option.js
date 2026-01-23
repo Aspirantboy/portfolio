@@ -14,7 +14,6 @@ const introdata = {
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
     your_img_url: "https://res.cloudinary.com/dwqusdhzz/image/upload/v1769201076/WhatsApp_Image_2026-01-24_at_1.52.14_AM_gobu3x.jpg",
 };
-
 const dataabout = {
     title: "abit about my self",
     aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
