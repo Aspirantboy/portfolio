@@ -19,15 +19,15 @@ const dataabout = {
     aboutme: "I’m a Mechanical Engineering undergraduate at NIT Meghalaya with a strong focus on energy systems, intelligent control, and sustainable design. My experience spans solar thermal research, EV component design, and UAV systems, supported by advanced simulation and prototyping skills. I’m driven to turn innovative engineering ideas into practical, real-world solutions.",
 };
 const worktimeline = [{
-        jobtitle: "Intern (On-going)",
+        jobtitle: "Intern",
         where: "Aeronautical Development Establishment (DRDO), Bengaluru — 2025",
-        workingon: "Working on the on-board hydraulic systems of UAVs, focusing on reliability and system integration.",
+        workingon: "Working on the on-board hydraulic systems of UAVs, focusing on reliability and system integration",
         date: "2025",
     },
     {
-        jobtitle: "Designer of week",
-        where: "Jamalya",
-        date: "2019",
+        jobtitle: "Mechanical Design Engineering Intern",
+        where: "Nandighosh RoadX Motors Pvt. Ltd. — 2024",
+        workedon: "Design and analysis of EV components using CAD tools; structural and thermal validation for safety and performance.",
     },
     {
         jobtitle: "Designer of week",
