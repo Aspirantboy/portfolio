@@ -16,12 +16,13 @@ const introdata = {
 };
 const dataabout = {
     title: "abit about my self",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    aboutme: "I’m a Mechanical Engineering undergraduate at NIT Meghalaya with a strong focus on energy systems, intelligent control, and sustainable design. My experience spans solar thermal research, EV component design, and UAV systems, supported by advanced simulation and prototyping skills. I’m driven to turn innovative engineering ideas into practical, real-world solutions.",
 };
 const worktimeline = [{
-        jobtitle: "Designer of week",
-        where: "YAdfi",
-        date: "2020",
+        jobtitle: "Intern (On-going)",
+        where: "Aeronautical Development Establishment (DRDO), Bengaluru — 2025",
+        workingon: "Working on the on-board hydraulic systems of UAVs, focusing on reliability and system integration.",
+        date: "2025",
     },
     {
         jobtitle: "Designer of week",
