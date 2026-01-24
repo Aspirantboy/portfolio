@@ -21,7 +21,7 @@ const dataabout = {
 const worktimeline = [{
         jobtitle: "Intern",
         where: "Aeronautical Development Establishment (DRDO), Bengaluru — 2025",
-        workedOn: "Working on the on-board hydraulic systems of UAVs, focusing on reliability and system integration.",
+        workedOn: "Working on the on-board hydraulic systems of UAVs, focusing on reliability and system integration",
         date: "2025",
     },
     {
