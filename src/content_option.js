@@ -21,13 +21,13 @@ const dataabout = {
 const worktimeline = [{
         jobtitle: "Intern",
         where: "Aeronautical Development Establishment (DRDO), Bengaluru — 2025",
-        workingon: "Working on the on-board hydraulic systems of UAVs, focusing on reliability and system integration",
+        workingon: "Working on the on-board hydraulic systems of UAVs, focusing on reliability and system integration.",
         date: "2025",
     },
     {
-        jobtitle: "Mechanical Design Engineering Intern",
-        where: "Nandighosh RoadX Motors Pvt. Ltd. — 2024",
-        workedon: "Design and analysis of EV components using CAD tools; structural and thermal validation for safety and performance.",
+        jobtitle: "Designer of week",
+        where: "Jamalya",
+        date: "2019",
     },
     {
         jobtitle: "Designer of week",
