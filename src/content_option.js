@@ -21,17 +21,31 @@ const dataabout = {
 const worktimeline = [{
         jobtitle: "Intern",
         where: "Aeronautical Development Establishment (DRDO), Bengaluru — 2025",
-        workingon: "Working on the on-board hydraulic systems of UAVs, focusing on reliability and system integration.",
+        workedOn: "Working on the on-board hydraulic systems of UAVs, focusing on reliability and system integration.",
         date: "2025",
     },
     {
         jobtitle: "Designer of week",
         where: "Jamalya",
+        workedOn: "Designed and prototyped a cost-effective solar thermal collector system, improving efficiency by 15%.",
         date: "2019",
     },
     {
         jobtitle: "Designer of week",
         where: "ALquds",
+        workedOn: "Developed an innovative cooling system for electric vehicles, enhancing battery performance under high temperatures.",   
+        date: "2019",
+    },
+     {
+        jobtitle: "Designer of week",
+        where: "ALquds",
+        workedOn: "Developed an innovative cooling system for electric vehicles, enhancing battery performance under high temperatures.",   
+        date: "2019",
+    },
+     {
+        jobtitle: "Designer of week",
+        where: "ALquds",
+        workedOn: "Developed an innovative cooling system for electric vehicles, enhancing battery performance under high temperatures.",   
         date: "2019",
     },
 ];
