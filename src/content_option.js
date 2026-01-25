@@ -58,7 +58,7 @@ const education = [{
     },
     {
         jobtitle: "10th",
-        where: "A.V Model High School (BSE of T.S) ",
+        where: "A.V Model High School (BSE of T.S)",
         marks: "92%",
         Year: "2019",
     },
@@ -71,65 +71,57 @@ const education = [{
     {
         jobtitle: "B.Tech",
         where: "National Institute of Technology Meghalaya",
-        marks: "7.76 CGPA",
+        marks: "7.76",
         Year: "2026*",
     }
 ];
 
 const skills = [{
-        name: "MATLAB / Simulink",
+        name: "SolidWorks",
         value: 90,
     },
     {
-        name: "SolidWorks",
+        name: "MATLAB / Simulink",
         value: 85,
     },
     {
-        name: "Javascript",
+        name: "ANSYS",
         value: 80,
     },
     {
-        name: "React",
+        name: "Simcenter Amesim",
         value: 60,
     },
     {
-        name: "Jquery",
-        value: 85,
+        name: "Hyper Mesh",
+        value: 75,
     },
 ];
 
 const experience = [{
-        title: "DST-SERB (Intern) - [ June 2025 - July 2025 ]",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "DST-SERB (Intern) - [ 01 Nov, 2024  - 31 Dec, 2024 ]",
+        description: "An Intern for the DST-SERB project under CRG scheme entitled \"Development and Testing of solar Photovoltaic (PV) Assisted\"Hybrid Double-Slope Desalination Solar Still for 0ff-Grid Rural-North East India in the Department of Mechanical Engineering,National Institute of Technology (NIT) Meghalaya.",
         // example:"aaaaaaaa"
 },
 
     {
-        title: "National Institute of Technology (NIT) Meghalaya. - [ 10 Jul, 2025  - 12 Aug, 2025]",
+        title: "National Institute of Technology (NIT) Meghalaya. - [ 06 Dec, 2023  - 03 Jan, 2024 ]",
+        description: "Developed A Cooling and Heating Control System to Be Applied for Solar Energy Devices",
+    },
+    {
+        title: "National Institute of Technology (NIT) Silchar. - [ 03 May, 2025  - 05 Jul, 2025  ]",
+        description: "Done Experiment of a novel composite building wall U-value and Solar PV Training & Research System and Training on CAD Software\n(COMSOL Multiphysics and MATLAB Simulink)",
+    },
+
+      {
+        title: "Nandi Ghosh Road X Motors Pvt Ltd. - [ 10 Jul, 2025  - 12 Aug, 2025  ]",
         description: "Mechanical Design Engineering Intern |Design, Analysis, and Assembly of Electric Vehicle (EV)Systems. Odisha, Bhubaneswar, India. Designing a prototyping EV component using CAD tools like SolidWorks and Creo. Performing structural analysis and thermal testing on vehicle components to validate performance and Safety.",
     },
     {
-        title: "Wordpress Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "Aeronautical Development Establishment (ADE) - DRDO, Bengaluru -  [ 06 Aug, 2025  - Present ]",
+        description: "I am currently an intern at ADE, DRDO, working on a project related to hydraulic landing gear systems for unmanned aerial vehicles (UAVs).",
     },
 
-      {
-        title: "Mobile Apps",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
-    },
-    {
-        title: "Wordpress Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
-    },
-
-      {
-        title: "Mobile Apps",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
-    },
-    {
-        title: "Wordpress Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
-    },
 ];
 
 const dataportfolio = [{
@@ -196,8 +188,8 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "name@domain.com",
-    YOUR_FONE: "(555)123-4567",
+    YOUR_EMAIL: "b22me025@mitm.ac.in",
+    YOUR_FONE: "+91 7569671548",
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
