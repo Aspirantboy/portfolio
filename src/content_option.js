@@ -15,7 +15,7 @@ const introdata = {
     your_img_url: "https://res.cloudinary.com/dwqusdhzz/image/upload/v1768923461/IMG-20251113-WA0004_q2egst.jpg",
 };
 const dataabout = {
-    title: "abit about my self",
+    title: "A Bit About My Self",
     aboutme: "I’m a Mechanical Engineering undergraduate at NIT Meghalaya with a strong focus on energy systems, intelligent control, and sustainable design. My experience spans solar thermal research, EV component design, and UAV systems, supported by advanced simulation and prototyping skills. I’m driven to turn innovative engineering ideas into practical, real-world solutions.",
 };
 const worktimeline = [{
@@ -50,6 +50,32 @@ const worktimeline = [{
     },
 ];
 
+const education = [{
+        jobtitle: "Degree",
+        where: "School/Institute",
+        marks: "CGPA/%",
+        Year: "Year of completion",
+    },
+    {
+        jobtitle: "Designer of week",
+        where: "Jamalya",
+        marks: "2019",
+        Year: "2021-2025",
+    },
+    {
+        jobtitle: "Designer of week",
+        where: "ALquds",
+        marks: "2019",
+        Year: "2021-2025",   
+    },
+      {
+        jobtitle: "Designer of week",
+        where: "ALquds",
+        marks: "2019",
+        Year: "2021-2025",   
+    }
+];
+
 const skills = [{
         name: "MATLAB / Simulink",
         value: 90,
@@ -72,11 +98,31 @@ const skills = [{
     },
 ];
 
-const services = [{
-        title: "UI & UX Design",
+const experience = [{
+        title: "DST-SERB (Intern) - [ June 2025 - July 2025 ]",
+        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        // example:"aaaaaaaa"
+},
+
+    {
+        title: "National Institute of Technology (NIT) Meghalaya. - [ 10 Jul, 2025  - 12 Aug, 2025]",
+        description: "Mechanical Design Engineering Intern |Design, Analysis, and Assembly of Electric Vehicle (EV)Systems. Odisha, Bhubaneswar, India. Designing a prototyping EV component using CAD tools like SolidWorks and Creo. Performing structural analysis and thermal testing on vehicle components to validate performance and Safety.",
+    },
+    {
+        title: "Wordpress Design",
+        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+    },
+
+      {
+        title: "Mobile Apps",
         description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
     },
     {
+        title: "Wordpress Design",
+        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+    },
+
+      {
         title: "Mobile Apps",
         description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
     },
@@ -172,9 +218,10 @@ export {
     dataportfolio,
     worktimeline,
     skills,
-    services,
+    experience,
     introdata,
     contactConfig,
     socialprofils,
+    education,
     logotext,
 };
