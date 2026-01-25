@@ -207,7 +207,7 @@ const dataportfolio = [{
 const contactConfig = {
     YOUR_EMAIL: "b22me025@mitm.ac.in",
     YOUR_FONE: "+91 7569671548",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+    description: "I am open to internships and entry-level roles in mechanical engineering, as well as research and technical collaborations.",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_id",

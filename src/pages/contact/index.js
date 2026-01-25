@@ -128,7 +128,7 @@ export const ContactUs = () => {
                 </Col>
                 <Col lg="6" className="form-group">
                   <input
-                    className="form-control rounded-0"
+                    className="form-control rounded-0 "
                     id="email"
                     name="email"
                     placeholder="Email"
