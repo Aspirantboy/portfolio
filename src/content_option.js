@@ -7,9 +7,9 @@ const meta = {
 const introdata = {
     title: "I’m Om Prakash Yadav",
     animated: {
-        first: "I love Arduino",
-        second: "I make Robots for you",
-        third: "I am a Student",
+        first: "Mechanical Engineering student at NIT Meghalaya.",
+        second: "Focused on energy systems, CAD, and intelligent control.",
+        third: "Driven to build sustainable, real-world engineering solutions.",
     },
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
     your_img_url: "https://res.cloudinary.com/dwqusdhzz/image/upload/v1768923461/IMG-20251113-WA0004_q2egst.jpg",
