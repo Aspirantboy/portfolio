@@ -20,7 +20,7 @@ const dataabout = {
 };
 const worktimeline = [{
         jobtitle: "Intern",
-        where: "Aeronautical Development Establishment (DRDO), Bengaluru — 2025",
+        where: "Aeronautical Development Establishment (DRDO), Bengaluru",
         workedOn: "Working on the on-board hydraulic systems of UAVs, focusing on reliability and system integration",
         date: "2025",
     },
@@ -51,11 +51,11 @@ const worktimeline = [{
 ];
 
 const skills = [{
-        name: "Python",
+        name: "MATLAB / Simulink",
         value: 90,
     },
     {
-        name: "Djano",
+        name: "SolidWorks",
         value: 85,
     },
     {

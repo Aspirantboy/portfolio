@@ -98,3 +98,19 @@
         transform: translateZ(0);
     }
 }
+
+/* FIX BOOTSTRAP TABLE DARK MODE */
+.table {
+  --bs-table-bg: transparent !important;
+  --bs-table-color: var(--text-color);
+}
+
+.table > :not(caption) > * > * {
+  background-color: transparent !important;
+  color: var(--text-color) !important;
+}
+
+.table th,
+.table td {
+  border-color: rgba(255, 255, 255, 0.15);
+}
