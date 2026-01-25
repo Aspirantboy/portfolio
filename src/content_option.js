@@ -7,11 +7,11 @@ const meta = {
 const introdata = {
     title: "I’m Om Prakash Yadav",
     animated: {
-        first: "Mechanical Engineering student at NIT Meghalaya.",
+        first: "Student at NIT Meghalaya.",
         second: "Focused on energy systems, CAD, and intelligent control.",
-        third: "Driven to build sustainable, real-world engineering solutions.",
+        third: "Building practical, sustainable solutions.",
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
+    description: "Mechanical Engineering undergraduate with hands-on experience in CAD, simulation, and sustainable engineering system design.",
     your_img_url: "https://res.cloudinary.com/dwqusdhzz/image/upload/v1768923461/IMG-20251113-WA0004_q2egst.jpg",
 };
 const dataabout = {
@@ -57,22 +57,22 @@ const education = [{
         Year: "Year of completion",
     },
     {
-        jobtitle: "Designer of week",
-        where: "Jamalya",
-        marks: "2019",
-        Year: "2021-2025",
+        jobtitle: "10th",
+        where: "A.V Model High School (BSE of T.S) ",
+        marks: "92%",
+        Year: "2019",
     },
     {
-        jobtitle: "Designer of week",
-        where: "ALquds",
-        marks: "2019",
-        Year: "2021-2025",   
+        jobtitle: "12th",
+        where: "Sri Chaitanya Junior Kalasala (TSBIE)",
+        marks: "83%",
+        Year: "2021",
     },
-      {
-        jobtitle: "Designer of week",
-        where: "ALquds",
-        marks: "2019",
-        Year: "2021-2025",   
+    {
+        jobtitle: "B.Tech",
+        where: "National Institute of Technology Meghalaya",
+        marks: "7.76 CGPA",
+        Year: "2026*",
     }
 ];
 
