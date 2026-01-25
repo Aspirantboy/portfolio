@@ -124,6 +124,23 @@ const experience = [{
 
 ];
 
+const Publications = [{
+        title: "CONFERENCE PAPER",
+        description: "International Mechanical Engineering Congress & Exposition® India (IMECE-India2025). Experimental Study of Drying Efficacy using a Semi-Transparent Solar PV-Powered Drying System. (Published in ASME)",
+        // example:"aaaaaaaa"
+},
+
+    {
+        title: "JOURNAL PAPER",
+        description: "Journal of Solar Energy Engineering- SOL-25-1222.Performance of a Rainwater Harvester cum Double Slope Desalinator with Booster Mirror and Cooling Fan (Published in Solar Energy Engineering)",
+    },
+    {
+        title: "JOURNAL PAPER",
+        description: "Journal of Thermal Analysis and Calorimetry (JTAC 2024-IIT MADRAS). Designing and Developing a Heating and Cooling Intelligent Control System for Various Thermal Applications. (Submitted) ",
+    },
+
+];
+
 const dataportfolio = [{
         img: "1.jpg",
         description: "The wisdom of life consists in the elimination of non-essentials.",
@@ -211,6 +228,7 @@ export {
     worktimeline,
     skills,
     experience,
+    Publications,
     introdata,
     contactConfig,
     socialprofils,
