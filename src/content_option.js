@@ -71,7 +71,7 @@ const education = [{
     {
         jobtitle: "B.Tech",
         where: "National Institute of Technology Meghalaya",
-        marks: "7.76",
+        marks: "7.76*",
         Year: "2026*",
     }
 ];
@@ -132,7 +132,7 @@ const Publications = [{
 
     {
         title: "JOURNAL PAPER",
-        description: "Journal of Solar Energy Engineering- SOL-25-1222.Performance of a Rainwater Harvester cum Double Slope Desalinator with Booster Mirror and Cooling Fan (Published in Solar Energy Engineering)",
+        description: "Journal of Solar Energy Engineering- SOL-25-1222.Performance of a Rainwater Harvester cum Double Slope Desalinator with Booster Mirror and Cooling Fan (Published in ASME - Journal of Solar Energy Engineering)",
     },
     {
         title: "JOURNAL PAPER",
